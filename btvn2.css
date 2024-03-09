@@ -1,46 +1,60 @@
-body{
-    background-color: rgb(233, 203, 123);
-    
+body {
+  background-color: rgb(233, 203, 123);
 }
-.dream{
-    color:rgb(189, 121, 25) ;
-    background-color:rgb(227, 189, 83) ; 
-    font-family: "Times New Roman";
-    font-size: 30px ; 
-    border-width: 10px ;
-    border-style: ridge  ;
-    border-color: rgb(233, 203, 123) ;
-     text-align: center;
-
+.dream {
+  color: rgb(189, 121, 25);
+  background-color: rgb(227, 189, 83);
+  font-family: "Times New Roman";
+  font-size: 50px;
+  border-width: 10px;
+  border-style: ridge;
+  border-color: rgb(233, 203, 123);
+  text-align: center;
 }
-.musttry{
-    color:rgb(189, 121, 25) ; 
-    text-decoration: overline  underline ;
-    font-size: 25px;
-    text-align: center;
-       
+.one {
+  font-size: 25px;
+  text-align: center;
+  color:rgb(189, 121, 25);
 }
-.product{
-    color:rgb(189, 121, 25);
-    font-size: 20px ;
-
+.list {
+  font-size: 25px;
+  list-style-type: decimal;
+  color: rgb(189, 121, 25);
 }
-.sweety{
-    color:rgb(189, 121, 25);
-    border-style: ridge;
-    border-color:rgb(189, 121, 25) ;
-
+.menu {
+  font-size: 45px;
+  font-weight: bolder;
+  text-align: center;
+  color: rgb(189, 121, 25);
 }
-.price{
-    color:rgb(189, 121, 25);
-    font-size: 18px ;
-    text-decoration:underline ;
-    
+.musttry {
+  color: rgb(189, 121, 25);
+  text-decoration: overline underline;
+  font-size: 40px;
+  text-align: center;
 }
-.picture{
-    opacity:1 ;
-    
+.product {
+  color: rgb(189, 121, 25);
+  font-size: 30px;
+  text-align: center;
 }
-img{
-    
+.sweety {
+  color: rgb(189, 121, 25);
+  border-style: ridge;
+  border-color: rgb(189, 121, 25);
+  text-align: center;
+  font-size: 25px;
+}
+.price {
+  color: rgb(189, 121, 25);
+  font-size: 18px;
+  text-decoration: underline;
+  text-align: center;
+  font-size: 20px;
+}
+img.picture {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
 }
